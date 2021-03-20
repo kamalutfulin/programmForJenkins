@@ -1,3 +1,1 @@
-Readme
-Completed
-22
+Easy!!
